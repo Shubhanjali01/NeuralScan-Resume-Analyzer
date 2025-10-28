@@ -92,10 +92,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Shubhanjali01/NeuralScan-Resume-Analyzer.git
-git push -u origin main
